@@ -1,2 +1,2 @@
 # connietu.github.io
-the hub
+landscape for developing some cool stuff
